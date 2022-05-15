@@ -1,6 +1,6 @@
 package com;
 import java.sql.*;
-
+//customer
 public class Customer {
 	
 	public Connection connect()
